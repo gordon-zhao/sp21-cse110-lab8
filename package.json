@@ -1,0 +1,26 @@
+{
+  "name": "sp21-cse110-lab8",
+  "version": "1.0.0",
+  "description": "jest lab",
+  "main": "babel.config.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gordon-zhao/sp21-cse110-lab8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gordon-zhao/sp21-cse110-lab8/issues"
+  },
+  "homepage": "https://github.com/gordon-zhao/sp21-cse110-lab8#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
